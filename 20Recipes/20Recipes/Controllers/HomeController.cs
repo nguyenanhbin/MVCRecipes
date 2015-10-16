@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of aca44a7... test github
 =======
 >>>>>>> parent of aca44a7... test github
 ﻿using System;
@@ -15,7 +18,6 @@ namespace _20Recipes.Controllers
         public ActionResult Index()
         {
             ViewBag.Message = "Test Github 04";
-
             return View();
         }
 
