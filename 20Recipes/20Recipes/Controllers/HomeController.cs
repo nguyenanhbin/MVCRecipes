@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of aca44a7... test github
-=======
->>>>>>> parent of aca44a7... test github
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
