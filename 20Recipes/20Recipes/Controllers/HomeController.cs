@@ -10,7 +10,7 @@ namespace _20Recipes.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Test Github 05";
+            ViewBag.Message = "Test Github 06";
             return View();
         }
 
