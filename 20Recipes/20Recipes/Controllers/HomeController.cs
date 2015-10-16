@@ -1,4 +1,3 @@
-﻿
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,8 +10,8 @@ namespace _20Recipes.Controllers
     {
         public ActionResult Index()
         {
-
             ViewBag.Message = "Test Github 04";
+
             return View();
         }
 
